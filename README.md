@@ -105,7 +105,7 @@
 
 ### R
 
-* [tidyged](https://jl5000.github.io/tidyged/) - An R package for handling GEDCOM files
+* [gedcomS7](https://jl5000.github.io/gedcomS7/) - An R package for handling GEDCOM files
 
 ### Ruby
 * [gedcom](https://github.com/rbur004/gedcom) - Ruby Gedcom parser
